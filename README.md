@@ -19,4 +19,8 @@ Kullanıcılar siteyi gezebilir, film/dizi listelerini görüntüleyebilir ve ç
     - Kart üzerindeki butonlar: Oynat, Beğen, Beğenme, Listeye Ekle.  
 - **Responsive Tasarım:** Mobil cihazlarda üst menü gizlenir, featured alan küçülür ve açıklamalar sınırlanır.
 
+## Teknolojiler
+- HTML5
+- CSS3
+- JavaScript
 
